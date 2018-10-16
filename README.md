@@ -14,40 +14,40 @@
 
 ##### 	项目流程图
 
-​	![流程图](C:\Users\Shinelon\Documents\HBuilderProject\项目描述图片\ATM\长图.png)
+​	![流程图](https://github.com/AprildreamMI/Progect-Images/blob/master/ATM/%E9%95%BF%E5%9B%BE.png)
 
 ### 二：项目预览
 
 ##### 	登陆
 
-​	![登陆](C:\Users\Shinelon\Documents\HBuilderProject\项目描述图片\ATM\登陆.png)
+​	![登陆](https://github.com/AprildreamMI/Progect-Images/blob/master/ATM/%E7%99%BB%E9%99%86.png)
 
 
 
 ##### 	注册	
 
-​	![登陆](C:\Users\Shinelon\Documents\HBuilderProject\项目描述图片\ATM\注册.png)
+​	![登陆](https://github.com/AprildreamMI/Progect-Images/blob/master/ATM/%E6%B3%A8%E5%86%8C.png)
 
-##### 
+
 
 ##### 	菜单
 
-![登陆](C:\Users\Shinelon\Documents\HBuilderProject\项目描述图片\ATM\菜单.png)
+![登陆](https://github.com/AprildreamMI/Progect-Images/blob/master/ATM/%E8%8F%9C%E5%8D%95.png)
 
 
 
 ##### 	存款
 
-​	![登陆](C:\Users\Shinelon\Documents\HBuilderProject\项目描述图片\ATM\存款.png)
+​	![登陆](https://github.com/AprildreamMI/Progect-Images/blob/master/ATM/%E5%AD%98%E6%AC%BE.png)
 
 
 
 ##### 		转账
 
-​	![登陆](C:\Users\Shinelon\Documents\HBuilderProject\项目描述图片\ATM\转账.png)
+​	![登陆](https://github.com/AprildreamMI/Progect-Images/blob/master/ATM/%E8%BD%AC%E8%B4%A6.png)
 
 
 
 ##### 	改密
 
-![登陆](C:\Users\Shinelon\Documents\HBuilderProject\项目描述图片\ATM\改密.png)
+![登陆](https://github.com/AprildreamMI/Progect-Images/blob/master/ATM/%E6%94%B9%E5%AF%86.png)
